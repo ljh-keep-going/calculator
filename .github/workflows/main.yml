@@ -21,4 +21,4 @@ jobs:
           python -m pip install --upgrade pip
       - name: main
         run: |
-          python3 计算器.py
+          python3 calculator.py
